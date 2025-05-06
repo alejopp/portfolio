@@ -862,6 +862,10 @@ input[type="password"], textarea {
     align-self: flex-end;
 }
 
+.align-justify {
+    text-align: justify;
+}
+
 /* large screen column widths 
  */
 .large-1 {
